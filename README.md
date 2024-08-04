@@ -1,2 +1,2 @@
 # TodoList
-Mini projects and Major Project of react.js.
+A Todo List App.
